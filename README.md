@@ -4,7 +4,9 @@
 
 I'm **Amar**, a **postgraduate in Master of Computer Applications (MCA)** from Aurora’s PG College, Telangana. I have a strong foundation in computer applications and software development, with a growing passion for **data science, machine learning, and solving real-world problems** through code.
 
-This README is my personal playground — a space to showcase my journey, skills, and aspirations in the tech world. Let’s dive in and build something impactful together!
+This README is my personal playground to showcase my journey, skills, and aspirations in the tech world. Let’s dive in!
+
+This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ---
 ## 🚀 Skills & Interests:
